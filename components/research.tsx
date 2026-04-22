@@ -45,7 +45,7 @@ export function Research() {
               border: "1px solid var(--border)",
             }}
           >
-            <div className="grid w-full grid-cols-2 items-baseline gap-6">
+            <div className="grid w-full grid-cols-2 items-center gap-6">
               <div className="flex items-center gap-3">
                 <span className="shrink-0 text-xl leading-none">{item.icon}</span>
                 <h3 className="text-sm font-semibold" style={{ color: "var(--fg)" }}>
